@@ -5,7 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukzeraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukzeraa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
+  
+![Snake animation](https://github.com/lukzeraa/lukzeraa/blob/output/github-contribution-grid-snake.svg)
+  
 <!--
 **lukzeraa/lukzeraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
